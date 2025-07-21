@@ -142,6 +142,4 @@ Contributions such as:
 - contributing unit tests
 - contributing examples
 
-are welcome!
-
 [^1]: To be exact, it produces a CST: Concrete Syntax Tree.
